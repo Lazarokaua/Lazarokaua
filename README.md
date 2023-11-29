@@ -1,6 +1,6 @@
 ### Olá! eu sou o Lázaro Kauã 🖖
 
-[![LinkedIn](https://img.shields.io/badge/https://www.linkedin.com/in/lazaro-kaua/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaro-kaua/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lazarokaua_?igshid=OGQ5ZDc2ODk2ZA==)
 
 ![Lazarokaua GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazarokaua&show_icons=true&theme=dracula)
