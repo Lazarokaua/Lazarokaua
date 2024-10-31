@@ -10,14 +10,20 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lazarokaua&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lazarokaua&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="170" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Lazarokaua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<p align="left">Tecnologias que uso</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lazarokaua&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<h2 align="left">Tecnologias que uso</h2>
 
 ###
 
@@ -34,10 +40,6 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Lazarokaua/Lazarokaua/output/snake.svg" alt="Snake animation" />
 
 ###
 
