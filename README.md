@@ -1,23 +1,68 @@
-### Olá! eu sou o Lázaro Kauã 🖖
+<h2 align="left">Olá! eu sou o Lázaro Kauã 🖖</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazaro-kaua/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lazarokaua_/)
+###
 
-![Lazarokaua GitHub stats](https://github-readme-stats.vercel.app/api?username=Lazarokaua&show_icons=true&theme=dracula)
+<h2 align="left">About Me</h2>
 
-![LazarokauaLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazarokaua&layout=compact)
+###
 
-## Tecnologias que eu estudo dia a dia 
-<div style="display: inline_block"><br/>
- <img align="center" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- </div><br/>
+<p align="left">- Desenvolvedor em Formação<br>- Criador de conteúdo<br>- Cursando ADS</p>
 
-“Nós somos aquilo que fazemos repetidamente. Excelência, então, não é um ato, mas um hábito”.
+###
 
-## contate-me por e-mail:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lazarokaua&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=algolia&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lazarokaua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
-[![Contato por e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lazarokaua22@gmail.com)
+###
 
- Vida longa e próspera 🖖
+<p align="left">Tecnologias que uso</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" alt="typescript logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=cs" height="45" alt="csharp logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="mongodb logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Lazarokaua/Lazarokaua/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h2 align="left">📫 Vamos nos conectar!</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lazarokaua/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/lazarokaua_/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@LazaroKaua7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<h4 align="left">🔗 Links Úteis</h4>
+
+###
+
+<p align="left">- Meu Portifólio: Em breve...<br>- Meu Web Site: Em breve...</p>
+
+###
