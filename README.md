@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Desenvolvedor em Formação<br>- Criador de conteúdo<br>- Cursando ADS</p>
+<p align="left">- Desenvolvedor em Formação<br>- Cursando ADS</p>
 
 ###
 
