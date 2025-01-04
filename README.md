@@ -65,6 +65,6 @@
 
 ###
 
-<p align="left">- Meu Portifólio: Em breve...<br>- Meu Web Site: Em breve...</p>
+<p align="left">- Meu Portifólio: <a href="https://lazarokaua.vercel.app/">My Portfolio</a> <br>- Meu Web Site: Em breve...</p>
 
 ###
