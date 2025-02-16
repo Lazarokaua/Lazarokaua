@@ -1,6 +1,4 @@
-<h2 align="left">Olá! eu sou o Lázaro Kauã 🖖</h2>
-
-###
+<h1 align="left">Olá! eu sou o Lázaro Kauã 🖖</h2>
 
 <h2 align="left">About Me</h2>
 
@@ -9,6 +7,8 @@
 <p align="left">- Desenvolvedor em Formação<br>- Cursando ADS</p>
 
 ###
+
+![Views](https://visitor-badge.glitch.me/badge?page_id=Lazarokaua.Lazarokaua)
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lazarokaua&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="170" alt="languages graph"  />
