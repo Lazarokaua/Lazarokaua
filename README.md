@@ -86,7 +86,7 @@
     &nbsp&nbsp&nbsp
     <a href="https://github.com/Lazarokaua">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/lazaro-kaua/">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/lazarokaua/">LinkedIn</a>
 &nbsp;|&nbsp;</p>
 </p>
 <p>
