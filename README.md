@@ -1,8 +1,18 @@
 
+## 👨‍💻 Desenvolvedor
+
+<img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/132157522?v=4"
+/>
+<p>&nbsp&nbsp&nbspLázaro kauã<br></p>
+
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/lazarokaua/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -16,13 +26,13 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Lazarokaua.Lazarokaua&"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="left">hey there 👋</h1>
 
 ###
 
@@ -74,21 +84,6 @@
   <img src="https://streak-stats.demolab.com?user=Lazarokaua&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-## 👨‍💻 Desenvolvedor
 
-<img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/132157522?v=4"
-/>
-<p>&nbsp&nbsp&nbspLázaro kauã<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/Lazarokaua">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/lazarokaua/">LinkedIn</a>
-&nbsp;|&nbsp;</p>
-</p>
-<p>
 
 ###
