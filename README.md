@@ -1,89 +1,89 @@
+<!-- HEADER / BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:03001C,100:5B8FB9&text=L%C3%A1zaro%20Kau%C3%A3&fontColor=FFFFFF&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Dev&descAlignY=60" alt="header" />
+</div>
 
-## 👨‍💻 Desenvolvedor
+<!-- AVATAR + NOME CURTO -->
+<img align="left" width="80" src="https://avatars.githubusercontent.com/u/132157522?v=4" alt="avatar" />
+&nbsp;&nbsp;&nbsp;**Lázaro Kauã**
 
-<img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/132157522?v=4"
-/>
-<p>&nbsp&nbsp&nbspLázaro kauã<br></p>
+<br clear="both"/>
 
-
-###
-
+<!-- SOCIALS -->
 <div align="left">
   <a href="https://www.linkedin.com/in/lazarokaua/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="https://www.youtube.com/@LazaroKaua7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&to=lazarokaua22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
   </a>
 </div>
 
-###
-
+<!-- VISITOR COUNTER -->
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lazarokaua.Lazarokaua&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lazarokaua.Lazarokaua" />
 </div>
 
-###
+---
 
-<h1 align="left">hey there 👋</h1>
+## hey there 👋
 
-###
+Apaixonado por tecnologia, cultura maker na veia e códigos na cabeça.  
+Transformo processos chatos em automações simples (Python + Selenium) enquanto aprofundo Java no back e React no front.
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### ⚙️ Tech stack principal
+![Java](https://img.shields.io/badge/Java-301E67?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-5B8FB9?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-B6EADA?style=for-the-badge&logo=python&logoColor=03001C)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=03001C)
+![TypeScript](https://img.shields.io/badge/TypeScript-03001C?style=for-the-badge&logo=typescript&logoColor=B6EADA)
 
-<p align="left">👋 Olá! Eu sou Lázaro Kaua<br>🚀 Apaixonado por tecnologia, inovação e desafios, estou em constante evolução no mundo da programação. Atualmente, estudo Análise e Desenvolvimento de Sistemas e me especializo em JavaScript (Fullstack) e C#, com foco inicial no front-end.</p>
+---
 
-###
+### 🚀 Projetos em destaque
+| Projeto | Stack | Descrição curta |
+|---------|-------|-----------------|
+| **Device-Loan** | Google Sheets + Apps Script | Controle de empréstimo de dispositivos |
+| **Meu Portfólio** | React + Tailwind | Hub de projetos & estudos |
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+### 🔥 My stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lazarokaua&show_icons=true&theme=github_dark&title_color=5B8FB9&icon_color=B6EADA&text_color=FFFFFF&bg_color=03001C" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Lazarokaua&theme=dark&hide_border=false&border_radius=5" height="170" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lazarokaua/Lazarokaua/output/snake.svg" alt="Snake animation" />
+</p>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+### 🗺️ Roadmap 2025
+- [x] Python para automações  
+- [x] React básico + Tailwind CSS  
+- [x] TADs com JavaScript  
+- [ ] Fundamentos Java  
+- [ ] API REST com Spring  
+- [ ] CI/CD no GitHub Actions  
+- [ ] React avançado (hooks custom)  
+- [ ] Clean Architecture + TDD  
 
-###
+---
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lazarokaua&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<details>
+  <summary>Fun facts</summary>
 
-
-
-###
+  * Team dark-theme forever  
+  * Live long and code 🖖  
+    <br><img src="images/spock.gif" width="80" alt="Spock gif" />
+  * Drum pra resetar a mente  
+  * Frase preferida: **“Faça do silêncio o seu mais alto esbravejar.”**
+</details>
