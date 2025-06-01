@@ -85,5 +85,5 @@ Transformo processos chatos em automações simples (Python + Selenium) enquanto
   * Live long and code 🖖  
     <br><img src="images/spock.gif" width="80" alt="Spock gif" />
   * Drum pra resetar a mente  
-  * Frase preferida: **“Faça do silêncio o seu mais alto esbravejar.”**
+  * Frase preferida: **“Faça do silêncio o seu mais alto esbravejar. - Lázaro Kauã”**
 </details>
