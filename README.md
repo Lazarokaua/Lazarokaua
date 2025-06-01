@@ -31,7 +31,7 @@
 
 ## hey there 👋
 
-Apaixonado por tecnologia, cultura maker na veia e códigos na cabeça.  
+Apaixonado por tecnologia. Cultura Maker.  
 Transformo processos chatos em automações simples (Python + Selenium) enquanto aprofundo Java no back e React no front.
 
 ---
