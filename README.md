@@ -5,7 +5,7 @@
 
 <!-- AVATAR + NOME CURTO -->
 <img align="left" width="80" src="https://avatars.githubusercontent.com/u/132157522?v=4" alt="avatar" />
-&nbsp;&nbsp;&nbsp;**Lázaro Kauã**
+&nbsp;&nbsp;&nbsp;Lázaro Kauã
 
 <br clear="both"/>
 
