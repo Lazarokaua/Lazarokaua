@@ -1,0 +1,23 @@
+name: Generate GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # roda todo dia 00:00 BRT (~03:00 UTC)
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Lazarokaua
+          outputs: |
+            ./dist/snake.svg
+      - name: Commit & Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Actions
+          author_email: actions@github.com
+          message: "chore: update snake.svg"
+          add: "dist/snake.svg"
