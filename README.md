@@ -59,6 +59,16 @@ Transformo processos chatos em automações simples (Python + Selenium) enquanto
   <img src="https://streak-stats.demolab.com?user=Lazarokaua&theme=dark&hide_border=false&border_radius=5" height="170" />
 </p>
 
+<!-- Top linguagens -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazarokaua&layout=compact&langs_count=8&theme=github_dark&title_color=5B8FB9&text_color=FFFFFF&bg_color=03001C&border_radius=5"
+    height="170"
+    alt="Top languages"
+  />
+</p>
+
+
 <!-- SNAKE ANIMATION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lazarokaua/Lazarokaua/output/snake.svg" alt="Snake animation" />
