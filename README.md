@@ -80,8 +80,8 @@ Transformo processos chatos em automações simples (Python + Selenium) enquanto
 - [x] Python para automações  
 - [x] React básico + Tailwind CSS  
 - [x] TADs com JavaScript  
-- [ ] Fundamentos Java  
-- [ ] API REST com Spring  
+- [x] Fundamentos Java  
+- [x] API REST com Spring  
 - [ ] CI/CD no GitHub Actions  
 - [ ] React avançado (hooks custom)  
 - [ ] Clean Architecture + TDD  
