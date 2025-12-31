@@ -95,5 +95,6 @@ Transformo processos chatos em automações simples (Python + Selenium) enquanto
   * Live long and code 🖖  
     <br><img src="images/spock.gif" width="80" alt="Spock gif" />
   * Drum pra resetar a mente  
-  * Frase preferida: **“Faça do silêncio o seu mais alto esbravejar. - Lázaro Kauã”**
+  * Frase preferida: **“Estou em cima da minha mesa para lembrar que devemos constantemente olhar para as coisas de uma maneira diferente.”
+— John Keating, Sociedade dos Poetas Mortos (1989)**
 </details>
