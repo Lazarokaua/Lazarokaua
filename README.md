@@ -1,100 +1,28 @@
-<!-- HEADER / BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:03001C,100:5B8FB9&text=L%C3%A1zaro%20Kau%C3%A3&fontColor=FFFFFF&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Dev&descAlignY=60" alt="header" />
-</div>
+# Hey There! 🖖🏻
 
-<!-- AVATAR + NOME CURTO -->
-<img align="left" width="80" src="https://avatars.githubusercontent.com/u/132157522?v=4" alt="avatar" />
-&nbsp;&nbsp;&nbsp;Lázaro Kauã
+Sou **Lázaro Kauã**, Desenvolvedor FullStack Jr e voluntário na **@rrafesp**. Construo soluções robustas com Java, React e Python, focadas em impacto real e código limpo.
 
-<br clear="both"/>
+### No que estou focado:
+* 🏗️ Arquitetura de sistemas web com **Spring Boot**.
+* 🎨 Interfaces dinâmicas e escaláveis com **React.js**.
+* 🤖 Automação de processos e análise de dados com **Python (Selenium/Pandas)**.
 
-<!-- SOCIALS -->
-<div align="left">
-  <a href="https://www.linkedin.com/in/lazarokaua/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://www.youtube.com/@LazaroKaua7" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=lazarokaua22@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" />
-  </a>
-</div>
+### Tech Stack
+**Backend:** Java, Spring Boot, Postgres, Python.
+<br>
+**Frontend:** JavaScript, React, TailwindCSS.
 
-<!-- VISITOR COUNTER -->
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lazarokaua.Lazarokaua" />
-</div>
+### Projetos que valem o seu tempo:
+* [Empréstimos de Dispositivos](https://github.com/Lazarokaua/emprestimo-dispositivos) - Sistema focado em rastreabilidade e métricas de produtividade. Lógica de negócio aplicada a manutenções preventivas e controle de ativos.
+* [Mini-Loja React](https://github.com/Lazarokaua/MiniLojaReact) - E-commerce funcional focado em gerenciamento de estado (Hooks/Context API) e experiência do usuário.
+* [Site de Filmes - OmdbAPI](https://github.com/Lazarokaua/omdb-api-filmes) - Interface para consumo de API REST com filtragem dinâmica e renderização assíncrona.
+* [Finalista Concurso Literário](https://github.com/Lazarokaua/minha-obra-literaria) - Repositório da obra finalista no X Concurso Professor Arnaldo Niskier.
 
 ---
 
-## hey there 👋
+### Fun facts
+* 🎸 Drummer nas horas vagas para resetar o código da cabeça.
+* 🖖🏻 Entusiasta de ficção científica e do tema Dark.
+* *"Estou em cima da minha mesa para lembrar que devemos constantemente olhar para as coisas de uma maneira diferente."* — John Keating
 
-Apaixonado por tecnologia. Cultura Maker.  
-Transformo processos chatos em automações simples (Python + Selenium) enquanto aprofundo Java no back e React no front.
-
----
-
-### ⚙️ Tech stack principal
-![Java](https://img.shields.io/badge/Java-301E67?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/React-5B8FB9?style=for-the-badge&logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/Python-B6EADA?style=for-the-badge&logo=python&logoColor=03001C)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=03001C)
-![TypeScript](https://img.shields.io/badge/TypeScript-03001C?style=for-the-badge&logo=typescript&logoColor=B6EADA)
-
----
-
-### 🚀 Projetos em destaque
-| Projeto | Stack | Descrição curta |
-|---------|-------|-----------------|
-| **Device-Loan** | Google Sheets + Apps Script | Controle de empréstimo de dispositivos |
-| **Meu Portfólio** | React + Tailwind | Hub de projetos & estudos |
-
----
-
-### 🔥 My stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lazarokaua&show_icons=true&theme=github_dark&title_color=5B8FB9&icon_color=B6EADA&text_color=FFFFFF&bg_color=03001C" height="170" />
-  <img src="https://streak-stats.demolab.com?user=Lazarokaua&theme=dark&hide_border=false&border_radius=5" height="170" />
-</p>
-
-<!-- Top linguagens -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lazarokaua&layout=compact&langs_count=8&theme=github_dark&title_color=5B8FB9&text_color=FFFFFF&bg_color=03001C&border_radius=5"
-    height="170"
-    alt="Top languages"
-  />
-</p>
-
-
-<!-- SNAKE ANIMATION -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Lazarokaua/Lazarokaua/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
-### 🗺️ Roadmap 2025
-- [x] Python para automações  
-- [x] React básico + Tailwind CSS  
-- [x] TADs com JavaScript  
-- [x] Fundamentos Java  
-- [x] API REST com Spring  
-- [ ] CI/CD no GitHub Actions  
-- [ ] React avançado (hooks custom)  
-- [ ] Clean Architecture + TDD  
-
----
-
-<details>
-  <summary>Fun facts</summary>
-
-  * Team dark-theme forever  
-  * Live long and code 🖖  
-    <br><img src="images/spock.gif" width="80" alt="Spock gif" />
-  * Drum pra resetar a mente  
-  * Frase preferida: **“Estou em cima da minha mesa para lembrar que devemos constantemente olhar para as coisas de uma maneira diferente.”
-— John Keating, Sociedade dos Poetas Mortos (1989)**
-</details>
+**[LinkedIn](https://linkedin.com/in/lazarokaua) | [E-mail](mailto:lazarokaua22@gmail.com?subject=Contato%20via%20GitHub)**
